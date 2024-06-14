@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\materials_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\materials_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\light_cube_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.4. lighting maps\\3.4.4. lighting_maps_exercise4\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "materials_vs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_vs.glsl",
+              "RelativeDocumentMoniker": "shaders\\materials_vs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_vs.glsl",
+              "RelativeToolTip": "shaders\\materials_vs.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T18:55:52.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "materials_fs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_fs.glsl",
+              "RelativeDocumentMoniker": "shaders\\materials_fs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\materials_fs.glsl",
+              "RelativeToolTip": "shaders\\materials_fs.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T18:55:07.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAuwMgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T22:00:22.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Camera.cs",
+              "RelativeDocumentMoniker": "Camera.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Camera.cs",
+              "RelativeToolTip": "Camera.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAIwEgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:56:29.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "light_cube_fs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_fs.glsl",
+              "RelativeDocumentMoniker": "shaders\\light_cube_fs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_fs.glsl",
+              "RelativeToolTip": "shaders\\light_cube_fs.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T16:32:53.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "light_cube_vs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_vs.glsl",
+              "RelativeDocumentMoniker": "shaders\\light_cube_vs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\shaders\\light_cube_vs.glsl",
+              "RelativeToolTip": "shaders\\light_cube_vs.glsl",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T16:33:06.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Shader.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Shader.cs",
+              "RelativeDocumentMoniker": "Shader.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.4. Lighting maps\\3.4.4. lighting_maps_exercise4\\Shader.cs",
+              "RelativeToolTip": "Shader.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAAD0AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T09:46:03.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
