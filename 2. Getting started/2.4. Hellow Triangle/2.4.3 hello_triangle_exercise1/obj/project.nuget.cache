@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/nhwVyEO1/fFAsbWCChVWWMkZzk3uZybFFS1TXAjw1aytDaYt+GiPZVjOMPZAEYKvBB0VLaVlTjjhoPseawbbA==",
+  "dgSpecHash": "JoYQfFMeqNPqW7xakXWGZY1e3Yb4Hkjd+4xPCk+uPuoZrboYRw7u43qVRSK0AbpmrNoSQVYXlebLpkMDMDVnTA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.4. Hellow Triangle\\2.4.2 hello_triangle_indexed\\LearnOpenGL.csproj",
+  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.4. Hellow Triangle\\2.4.3 hello_triangle_exercise1\\LearnOpenGL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",

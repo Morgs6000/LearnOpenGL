@@ -79,37 +79,30 @@ public class Program {
         // configura dados de vértice (e buffer(s)) e configura atributos de vértice
         // ------------------------------------------------------------------
         float[] vertices = {
-             0.5f,  0.5f, 0.0f,  // top right
-             0.5f, -0.5f, 0.0f,  // bottom right
-            -0.5f, -0.5f, 0.0f,  // bottom left
-            -0.5f,  0.5f, 0.0f   // top left  
-        };
-        int[] indices = { // observe que começamos do 0!
-            0, 1, 3,  // primeiro Triângulo
-            1, 2, 3   // segundo Triângulo
+             // first triangle
+            -0.9f, -0.5f, 0.0f,  // left 
+            -0.0f, -0.5f, 0.0f,  // right
+            -0.45f, 0.5f, 0.0f,  // top 
+            // second triangle
+             0.0f, -0.5f, 0.0f,  // left
+             0.9f, -0.5f, 0.0f,  // right
+             0.45f, 0.5f, 0.0f   // top 
         };
 
-        int VBO, VAO, EBO;
+        int VBO, VAO;
         GL.GenVertexArrays(1, out VAO);
         GL.GenBuffers(1, out VBO);
-        GL.GenBuffers(1, out EBO);
         // vincule o objeto Vertex Array primeiro, depois vincule e defina buffer(s) de vértice(s) e então configure atributos de vértice(s).
         GL.BindVertexArray(VAO);
 
         GL.BindBuffer(BufferTarget.ArrayBuffer, VBO);
         GL.BufferData(BufferTarget.ArrayBuffer, vertices.Length * sizeof(float), vertices, BufferUsageHint.StaticDraw);
 
-        GL.BindBuffer(BufferTarget.ElementArrayBuffer, EBO);
-        GL.BufferData(BufferTarget.ElementArrayBuffer, indices.Length * sizeof(int), indices, BufferUsageHint.StaticDraw);
-
         GL.VertexAttribPointer(0, 3, VertexAttribPointerType.Float, false, 3 * sizeof(float), 0);
         GL.EnableVertexAttribArray(0);
 
         // observe que isso é permitido, a chamada para glVertexAttribPointer registrou VBO como o objeto de buffer de vértice vinculado do atributo de vértice para que depois possamos desvincular com segurança
         GL.BindBuffer(BufferTarget.ArrayBuffer, 0);
-
-        // lembre-se: NÃO desvincule o EBO enquanto um VAO estiver ativo, pois o objeto buffer do elemento vinculado ESTÁ armazenado no VAO; mantenha o EBO vinculado.
-        //GL.BindBuffer(BufferTarget.ElementArrayBuffer, 0);
 
         // Você pode desvincular o VAO posteriormente para que outras chamadas VAO não modifiquem acidentalmente este VAO, mas isso raramente acontece. Modificar outros VAOs requer uma chamada para glBindVertexArray de qualquer maneira, então geralmente não desvinculamos VAOs (nem VBOs) quando não é diretamente necessário.
         GL.BindVertexArray(0);
@@ -132,8 +125,7 @@ public class Program {
             // desenhamos nosso primeiro triângulo
             GL.UseProgram(shaderProgram);
             GL.BindVertexArray(VAO); // visto que temos apenas um VAO, não há necessidade de vinculá-lo todas as vezes, mas faremos isso para manter as coisas um pouco mais organizadas
-            //GL.DrawArrays(PrimitiveType.Triangles, 0, 3);
-            GL.DrawElements(PrimitiveType.Triangles, 6, DrawElementsType.UnsignedInt, 0);
+            GL.DrawArrays(PrimitiveType.Triangles, 0, 6); // define a contagem para 6 já que estamos desenhando 6 vértices agora (2 triângulos); não 3!
             //GL.BindVertexArray(0); // não há necessidade de desvinculá-lo todas as vezes
 
             // glfw: troca buffers e pesquisa eventos IO (teclas pressionadas/liberadas, mouse movido etc.)
@@ -145,7 +137,6 @@ public class Program {
         // ------------------------------------------------------------------------
         //GL.DeleteVertexArrays(1, ref VAO);
         //GL.DeleteBuffers(1, ref VBO);
-        //GL.DeleteBuffers(1, ref EBO);
         //GL.DeleteProgram(shaderProgram);
 
         window.Run();

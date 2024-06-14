@@ -1,0 +1,17 @@
+Envie a posição do vértice para o sombreador de fragmento usando a palavra-chave e defina a cor do fragmento igual a essa posição de vértice (veja como até mesmo os valores de posição de vértice são interpolados no triângulo). Uma vez que você conseguiu fazer isso; Tente responder à seguinte pergunta: Por que o lado inferior esquerdo do nosso triângulo é preto?
+
+Ele esta usando as posições dos vertices como valores das cores
+
+as cores em RBG variam de numeros inteiros entre 0 e 255, então fazemos a seguinte conversão:
+
+0.5f * 255.0f = 127.5f
+
+no caso o valor de cor RGB só aceita valores inteiros, então provavelmente arredonda para 128
+
+quando temos '-0.5f', o valor resultante é '-128' o que não é aceito, então é lido como '0'
+
+então para 'bottom right' temos '0.5f, -0.5f, 0.0f' que é equivalente a 'R: 128, G: 0, B: 0' resultando em um vermelho escuro
+
+para 'bottom left' temos '-0.5f, -0.5f, 0.0f' que é equivalente a 'R: 0, G: 0, B: 0' resultando em preto
+
+e para 'top' temos '0.0f,  0.5f, 0.0f' que é equivalente a 'R: 0, G: 128, B: 0' resultando em um verde escuro
