@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3TpS0buLvzKCAO23ipRH6ec7Dcq2uCG0sqcwFOtax965hlA4twXctGK9R+HDvnCfdRdaMg9Z4iFzb+RFmn8axw==",
+  "dgSpecHash": "IxA+Q/Wr8c6LxcgQTisslDnIjom+k5S40Byw/DS5qu7XoKuSS1asFvgTdNz3XT68ZMrEr/ItMsUHxE3d+fxcXg==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Breakout.csproj",
+  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\Breakout.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Breakout.csproj": {}
+    "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\Breakout.csproj": {}
   },
   "projects": {
-    "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Breakout.csproj": {
+    "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\Breakout.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Breakout.csproj",
+        "projectUniqueName": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\Breakout.csproj",
         "projectName": "Breakout",
-        "projectPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Breakout.csproj",
+        "projectPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\Breakout.csproj",
         "packagesPath": "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\",
-        "outputPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\obj\\",
+        "outputPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.3. Rendering Sprites\\Breakout\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

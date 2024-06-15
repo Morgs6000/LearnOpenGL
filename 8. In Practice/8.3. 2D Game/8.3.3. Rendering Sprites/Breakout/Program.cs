@@ -25,11 +25,11 @@ public class Program {
         var window = new GameWindow(gws, nws);
         window.CenterWindow();
 
-        window.UpdateFrame += delegate (FrameEventArgs args) {
+        window.UpdateFrame += delegate(FrameEventArgs args) {
             key_callback(window, window.KeyboardState);
         };
 
-        window.FramebufferResize += delegate (FramebufferResizeEventArgs args) {
+        window.FramebufferResize += delegate(FramebufferResizeEventArgs args) {
             framebuffer_size_callback(window, SCREEN_WIDTH, SCREEN_HEIGHT);
         };
 
@@ -41,7 +41,9 @@ public class Program {
 
         // inicializar jogo
         // ---------------
-        Breakout.Init();
+        window.Load += delegate() {
+            Breakout.Init();
+        };
 
         // variáveis ​​deltaTime
         // -------------------
