@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Breakout
-build_property.ProjectDir = D:\GitHub\Meus Repositórios\LearnOpenGL\8. In Practice\8.3. 2D Game\8.3.5. Collisions\8.3.5.1. Ball\Breakout\
+build_property.ProjectDir = D:\GitHub\Meus Repositórios\LearnOpenGL\8. In Practice\8.3. 2D Game\8.3.5. Collisions\8.3.5.2. Collision detection\Breakout\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

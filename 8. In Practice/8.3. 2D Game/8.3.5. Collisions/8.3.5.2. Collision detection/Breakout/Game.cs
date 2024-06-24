@@ -1,5 +1,6 @@
 ﻿using OpenTK.Mathematics;
 using OpenTK.Windowing.GraphicsLibraryFramework;
+using System.Runtime.Serialization;
 
 namespace Breakout;
 
@@ -88,7 +89,10 @@ public class Game {
     }
 
     public void Update(float dt) {
+        // atualiza objetos
         Ball.Move(dt, this.Widht);
+        // verifica colisões
+        this.DoCollisions();
     }
 
     // loop do jogo
@@ -128,6 +132,45 @@ public class Game {
             Player.Draw(Renderer);
 
             Ball.Draw(Renderer);
+        }
+    }
+
+    /*
+    public bool CheckCollision(GameObject one, GameObject two) { // AABB - colisão AABB
+        // colisão eixo x?
+        bool collisionX = one.Position.X + one.Size.X >= two.Position.X && two.Position.X + two.Size.X >= one.Position.X;
+        // colisão eixo y?
+        bool collisionY = one.Position.Y + one.Size.Y >= two.Position.Y && two.Position.Y + two.Size.Y >= one.Position.Y;
+        // colisão somente se estiver em ambos os eixos
+        return collisionX && collisionY;
+    }
+    */
+
+    public bool CheckCollision(BallObject one, GameObject two) { // AABB - Colisão circular
+        // obtém o círculo do ponto central primeiro
+        Vector2 center = one.Position + new Vector2(one.Radius);
+        // calcula informações AABB (centro, meias extensões)
+        Vector2 aabb_half_extents = new Vector2(two.Size.X / 2.0f, two.Size.Y / 2.0f);
+        Vector2 aabb_center = new Vector2(two.Position.X + aabb_half_extents.X, two.Position.Y + aabb_half_extents.Y);
+        // obtém o vetor diferença entre os dois centros
+        Vector2 difference = center - aabb_center;
+        Vector2 clamped = Vector2.Clamp(difference, -aabb_half_extents, aabb_half_extents);
+        // adicionamos o valor fixado a AABB_center e obtemos o valor da caixa mais próxima do círculo
+        Vector2 closest = aabb_center + clamped;
+        // recupera o vetor entre o círculo central e o ponto mais próximo AABB e verifica se comprimento <= raio
+        difference = closest - center;
+        return difference.Length < one.Radius;
+    }
+
+    public void DoCollisions() {
+        foreach(GameObject box in this.Levels[this.Level].Bricks) {
+            if(!box.Destroyed) {
+                if(CheckCollision(Ball, box)) {
+                    if(!box.IsSolid) {
+                        box.Destroyed = true;
+                    }
+                }
+            }
         }
     }
 }
