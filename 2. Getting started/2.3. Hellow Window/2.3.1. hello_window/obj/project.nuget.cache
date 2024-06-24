@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MOQljvkESWXF2m0YT3dDrDzeSm2opkbeW/WFkoSJ0k4SpoSEC6ppocnY+lP0n5oqvxBtPs+kq+gHJpBQ2VN6uQ==",
+  "dgSpecHash": "qUz7zJtI2yQmJ6h4H4EEsFtv7zkwMLwG1K2Y7bhWcBdKJc2RBKj/+n2+7uH43GTD7yLCiasLtSx6Ka0OMzdNSA==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\LearnOpenGL\\LearnOpenGL.csproj",
+  "projectFilePath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\2.3.1. hello_window\\LearnOpenGL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk\\4.8.2\\opentk.4.8.2.nupkg.sha512",
     "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\opentk.audio.openal\\4.8.2\\opentk.audio.openal.4.8.2.nupkg.sha512",

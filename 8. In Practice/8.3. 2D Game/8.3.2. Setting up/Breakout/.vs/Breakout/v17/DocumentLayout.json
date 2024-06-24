@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.2. setting up\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.2. setting up\\breakout\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.2. setting up\\breakout\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.2. setting up\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,26 +34,26 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "ResourceManager.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\ResourceManager.cs",
               "RelativeDocumentMoniker": "ResourceManager.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\ResourceManager.cs",
               "RelativeToolTip": "ResourceManager.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFAAAAAXAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T23:24:05.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Texture2D.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Texture2D.cs",
               "RelativeDocumentMoniker": "Texture2D.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Texture2D.cs",
               "RelativeToolTip": "Texture2D.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAA2AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T23:08:22.969Z",
               "EditorCaption": ""
@@ -66,33 +66,33 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAIwE4AAAAVAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAwF0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T22:32:15.157Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Game.cs",
-              "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAKAAAA",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Game.cs*",
+              "RelativeToolTip": "Game.cs*",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwC8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T00:00:46.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.2. Setting up\\Breakout\\Shader.cs",
               "RelativeToolTip": "Shader.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T22:41:09.322Z",
               "EditorCaption": ""

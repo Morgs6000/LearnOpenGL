@@ -420,11 +420,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\LearnOpenGL\\LearnOpenGL.csproj",
+      "projectUniqueName": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\2.3.1. hello_window\\LearnOpenGL.csproj",
       "projectName": "LearnOpenGL",
-      "projectPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\LearnOpenGL\\LearnOpenGL.csproj",
+      "projectPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\2.3.1. hello_window\\LearnOpenGL.csproj",
       "packagesPath": "C:\\Users\\Morgana Stradivarius\\.nuget\\packages\\",
-      "outputPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\LearnOpenGL\\obj\\",
+      "outputPath": "D:\\GitHub\\Meus Repositórios\\LearnOpenGL\\2. Getting started\\2.3. Hellow Window\\2.3.1. hello_window\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
