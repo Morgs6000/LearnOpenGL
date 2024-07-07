@@ -1,61 +1,61 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\",
+  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\particlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:particlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\particlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:particlegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\shaders\\particle_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\shaders\\particle_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shaders\\particle_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\shaders\\sprite_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\shaders\\sprite_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shaders\\sprite_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\shaders\\particle_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\shaders\\particle_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shaders\\particle_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\shaders\\sprite_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\shaders\\sprite_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shaders\\sprite_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.6. particles [n\u00E3o funcionou]\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -70,50 +70,47 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ParticleGenerator.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\ParticleGenerator.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\ParticleGenerator.cs",
               "RelativeDocumentMoniker": "ParticleGenerator.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\ParticleGenerator.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\ParticleGenerator.cs",
               "RelativeToolTip": "ParticleGenerator.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAiwBIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T12:14:17.435Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T12:14:17.435Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "particle_fs.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\particle_fs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\particle_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\particle_fs.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\particle_fs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\particle_fs.glsl",
               "RelativeToolTip": "shaders\\particle_fs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-24T12:10:44.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T12:10:44.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "particle_vs.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\particle_vs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\particle_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\particle_vs.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\particle_vs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\particle_vs.glsl",
               "RelativeToolTip": "shaders\\particle_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-24T12:10:33.703Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-24T12:10:33.703Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "BallObject.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\BallObject.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\BallObject.cs",
               "RelativeDocumentMoniker": "BallObject.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\BallObject.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\BallObject.cs",
               "RelativeToolTip": "BallObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -123,9 +120,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "GameLevel.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\GameLevel.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\GameLevel.cs",
               "RelativeDocumentMoniker": "GameLevel.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\GameLevel.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\GameLevel.cs",
               "RelativeToolTip": "GameLevel.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAB8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -135,22 +132,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "GameObject.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\GameObject.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\GameObject.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\GameObject.cs",
               "RelativeToolTip": "GameObject.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T09:18:27.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T09:18:27.395Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "SpriteRenderer.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\SpriteRenderer.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\SpriteRenderer.cs",
               "RelativeDocumentMoniker": "SpriteRenderer.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\SpriteRenderer.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\SpriteRenderer.cs",
               "RelativeToolTip": "SpriteRenderer.cs",
               "ViewState": "AQIAABkAAAAAAAAAAAAqwCUAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -160,24 +156,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Game.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Game.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Game.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAADkAAAAAAAAAAAAqwCIBAAAJAAAA",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAAAEwAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T00:00:46.736Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ResourceManager.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\ResourceManager.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\ResourceManager.cs",
               "RelativeDocumentMoniker": "ResourceManager.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\ResourceManager.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\ResourceManager.cs",
               "RelativeToolTip": "ResourceManager.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAADgvyIAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T23:24:05.159Z",
               "EditorCaption": ""
@@ -186,35 +182,33 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "sprite_vs.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\sprite_vs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\sprite_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\sprite_vs.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\sprite_vs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\sprite_vs.glsl",
               "RelativeToolTip": "shaders\\sprite_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-15T08:55:46.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T08:55:46.897Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "sprite_fs.glsl",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\sprite_fs.glsl",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\sprite_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\sprite_fs.glsl",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\shaders\\sprite_fs.glsl",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\shaders\\sprite_fs.glsl",
               "RelativeToolTip": "shaders\\sprite_fs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-15T08:55:56.172Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T08:55:56.172Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
               "Title": "Texture2D.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Texture2D.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Texture2D.cs",
               "RelativeDocumentMoniker": "Texture2D.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Texture2D.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Texture2D.cs",
               "RelativeToolTip": "Texture2D.cs",
               "ViewState": "AQIAABEAAAAAAAAAAAAAACMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -224,9 +218,9 @@
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -236,9 +230,9 @@
               "$type": "Document",
               "DocumentIndex": 13,
               "Title": "Shader.cs",
-              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Shader.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles\\Breakout\\Shader.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.6. Particles [n\u00E3o funcionou]\\Breakout\\Shader.cs",
               "RelativeToolTip": "Shader.cs",
               "ViewState": "AQIAAGAAAAAAAAAAAAAAAHsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
