@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:spriterenderer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:ballobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,10 +35,6 @@
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:texture2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\shaders\\sprite_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shaders\\sprite_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\8. in practice\\8.3. 2d game\\8.3.5. collisions\\8.3.5.1. ball\\breakout\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5EFB0278-0E77-4B98-BD4D-2BF1628E23DE}|Breakout.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,24 +54,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BallObject.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\BallObject.cs",
               "RelativeDocumentMoniker": "BallObject.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\BallObject.cs",
               "RelativeToolTip": "BallObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAASAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T12:00:48.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T12:00:48.004Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "GameLevel.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\GameLevel.cs",
               "RelativeDocumentMoniker": "GameLevel.cs",
@@ -79,51 +78,48 @@
               "RelativeToolTip": "GameLevel.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAB8AAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T09:25:36.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T09:25:36.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GameObject.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\GameObject.cs",
               "RelativeDocumentMoniker": "GameObject.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\GameObject.cs",
               "RelativeToolTip": "GameObject.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T09:18:27.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T09:18:27.395Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "SpriteRenderer.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\SpriteRenderer.cs",
               "RelativeDocumentMoniker": "SpriteRenderer.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\SpriteRenderer.cs",
               "RelativeToolTip": "SpriteRenderer.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAqwCUAAAAIAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBMAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T08:27:46.23Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Game.cs",
               "RelativeDocumentMoniker": "Game.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Game.cs",
               "RelativeToolTip": "Game.cs",
-              "ViewState": "AQIAADgAAAAAAAAAAAAqwFYAAABvAAAA",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAqwFoAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-15T00:00:46.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-15T00:00:46.736Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ResourceManager.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\ResourceManager.cs",
               "RelativeDocumentMoniker": "ResourceManager.cs",
@@ -135,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "sprite_vs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\shaders\\sprite_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\sprite_vs.glsl",
@@ -147,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "sprite_fs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\shaders\\sprite_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\sprite_fs.glsl",
@@ -159,20 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Texture2D.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Texture2D.cs",
               "RelativeDocumentMoniker": "Texture2D.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Texture2D.cs",
               "RelativeToolTip": "Texture2D.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAACMAAAA2AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACQAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T23:08:22.969Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -180,18 +176,17 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAABgAAAAAAAAAAAAAADEAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T22:32:15.157Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T22:32:15.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\8. In Practice\\8.3. 2D Game\\8.3.5. Collisions\\8.3.5.1. Ball\\Breakout\\Shader.cs",
               "RelativeToolTip": "Shader.cs",
-              "ViewState": "AQIAAGAAAAAAAAAAAAAAAHsAAAAbAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAIkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-14T22:41:09.322Z"
             }

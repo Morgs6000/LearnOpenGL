@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.6. Textures\\2.6.5 textures_exercise3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAFUAAAAAAAAAAAAuwGoAAAB1AAAA",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAFAAAABtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T22:00:22.439Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "shaders\\shader_fs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T09:42:39.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:42:39.422Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "shaders\\shader_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T09:41:26.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:41:26.462Z"
             }
           ]
         }

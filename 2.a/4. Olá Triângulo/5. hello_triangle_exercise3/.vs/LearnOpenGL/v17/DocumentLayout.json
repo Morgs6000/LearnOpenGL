@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2.a\\4. ol\u00E1 tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|solutionrelative:src\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2.a\\4. ol\u00E1 tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader2.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|solutionrelative:src\\shaders\\shader2.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2.a\\4. ol\u00E1 tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|solutionrelative:src\\shaders\\shader1.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2.a\\4. ol\u00E1 tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9D465F7B-D26A-4784-B832-DA8BAE6FC592}|LearnOpenGL.csproj|solutionrelative:src\\shaders\\shader.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "shader2.frag",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader2.frag",
+              "RelativeDocumentMoniker": "src\\shaders\\shader2.frag",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader2.frag",
+              "RelativeToolTip": "src\\shaders\\shader2.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T21:59:00.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "shader1.frag",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader1.frag",
+              "RelativeDocumentMoniker": "src\\shaders\\shader1.frag",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader1.frag",
+              "RelativeToolTip": "src\\shaders\\shader1.frag",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T21:14:44.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "shader.vert",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader.vert",
+              "RelativeDocumentMoniker": "src\\shaders\\shader.vert",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\shaders\\shader.vert",
+              "RelativeToolTip": "src\\shaders\\shader.vert",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-07T21:14:38.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Program.cs",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\4. Ol\u00E1 Tri\u00E2ngulo\\5. hello_triangle_exercise3\\src\\Program.cs",
+              "RelativeToolTip": "src\\Program.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAAKAAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T20:53:00.52Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

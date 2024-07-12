@@ -11,6 +11,8 @@ public class Program {
     private const int SCR_WIDTH = 800;
     private const int SCR_HEIGHT = 600;
 
+    private static float mixValue = 0.2f;
+
     private static void Main(string[] args) {
         Console.WriteLine("Hello, World!");
 
@@ -142,6 +144,9 @@ public class Program {
             GL.ActiveTexture(TextureUnit.Texture1);
             GL.BindTexture(TextureTarget.Texture2D, texture2);
 
+            // define o valor da mistura de textura no shader
+            ourShader.setFloat("mixValue", mixValue);
+
             // renderiza o contêiner
             ourShader.use();
             GL.BindVertexArray(VAO);
@@ -168,6 +173,21 @@ public class Program {
 
         if(input.IsKeyDown(Keys.Escape)) {
             window.Close();
+        }
+
+        if(input.IsKeyDown(Keys.Up)) {
+            mixValue += 0.001f; // altere este valor de acordo (pode ser muito lento ou muito rápido com base no hardware do sistema)
+
+            if(mixValue >= 1.0f) {
+                mixValue = 1.0f;
+            }
+        }
+        if(input.IsKeyDown(Keys.Down)) {
+            mixValue -= 0.001f; // altere este valor de acordo (pode ser muito lento ou muito rápido com base no hardware do sistema)
+
+            if(mixValue <= 0.0f) {
+                mixValue = 0.0f;
+            }
         }
     }
 

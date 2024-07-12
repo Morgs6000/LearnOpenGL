@@ -15,12 +15,12 @@
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\shader_fs.glsl||{8A5AA6CF-46E3-4520-A70A-7393D15233E9}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2. getting started\\2.5. shaders\\2.5.6 shaders_exercise3\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2. getting started\\2.5. shaders\\2.5.6 shaders_exercise3\\shaders\\shader_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\shader_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\2. getting started\\2.5. shaders\\2.5.6 shaders_exercise3\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -53,14 +53,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.5. Shaders\\2.5.6 shaders_exercise3\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAuwCgAAAANAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAuwCgAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T22:00:22.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.5. Shaders\\2.5.6 shaders_exercise3\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Shader.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAACcAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:46:03.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:46:03.869Z"
             },
             {
               "$type": "Document",
@@ -79,14 +78,14 @@
               "RelativeDocumentMoniker": "shaders\\shader_fs.glsl",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.5. Shaders\\2.5.6 shaders_exercise3\\shaders\\shader_fs.glsl",
               "RelativeToolTip": "shaders\\shader_fs.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-14T09:42:39.422Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "shader_vs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.5. Shaders\\2.5.6 shaders_exercise3\\shaders\\shader_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\shader_vs.glsl",

@@ -67,7 +67,7 @@ public class Program {
 
             // renderizar
             // ------
-            GL.ClearColor(0.0f, 0.0f, 0.0f, 1.0f);
+            GL.ClearColor(0.5f, 0.8f, 1.0f, 0.0f);
             GL.Clear(ClearBufferMask.ColorBufferBit);
             Breakout.Render();
 

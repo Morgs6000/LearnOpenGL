@@ -177,7 +177,9 @@ public class Program {
             Matrix4 model = Matrix4.Identity; // certifique-se de inicializar a matriz para a matriz identidade primeiro
             Matrix4 view = Matrix4.Identity;
             Matrix4 projection = Matrix4.Identity;
+
             model *= Matrix4.CreateFromAxisAngle(new Vector3(0.5f, 1.0f, 0.0f), (float)GLFW.GetTime());
+
             view *= Matrix4.CreateTranslation(new Vector3(0.0f, 0.0f, -3.0f));
             projection *= Matrix4.CreatePerspectiveFieldOfView(MathHelper.DegreesToRadians(45.0f), (float)SCR_WIDTH / (float)SCR_HEIGHT, 0.1f, 100.0f);
             // recupera as localizações uniformes da matriz

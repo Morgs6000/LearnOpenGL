@@ -197,7 +197,7 @@ public class Program {
             float radius = 10.0f;
             float camX = (float)(Math.Sin(GLFW.GetTime()) * radius);
             float camZ = (float)(Math.Cos(GLFW.GetTime()) * radius);
-            view *= Matrix4.LookAt(new Vector3(camX, 0.0f, camZ), new Vector3(0.0f, 0.0f, 0.0f), new Vector3(0.0f, 1.0f, 0.0f));
+            view *= Matrix4.LookAt(new Vector3(camX, 1.0f, camZ), new Vector3(0.0f, 0.0f, 0.0f), new Vector3(0.0f, 1.0f, 0.0f));
             ourShader.setMat4("view", view);            
 
             // renderiza caixas

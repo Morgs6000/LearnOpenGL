@@ -38,8 +38,7 @@
               "RelativeToolTip": "shaders\\shader_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T09:41:26.462Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:41:26.462Z"
             },
             {
               "$type": "Document",
@@ -49,7 +48,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2. Getting started\\2.8. Coordinate Systems\\2.8.2. coordinate_systems_depth\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKQAAAAAAAAAAAAuwLMAAABnAAAA",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAuwLUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T22:00:22.439Z",
               "EditorCaption": ""
@@ -76,8 +75,7 @@
               "RelativeToolTip": "shaders\\shader_fs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T09:42:39.422Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:42:39.422Z"
             }
           ]
         }
