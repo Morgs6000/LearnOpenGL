@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LearnOpenGL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+225642ecc1b03e754215bfb188aafc93bf815919")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8958e55fb36427c1268fec60b474e6a2ca853154")]
 [assembly: System.Reflection.AssemblyProductAttribute("LearnOpenGL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LearnOpenGL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

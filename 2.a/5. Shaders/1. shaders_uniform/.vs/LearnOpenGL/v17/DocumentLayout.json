@@ -34,8 +34,7 @@
               "RelativeToolTip": "src\\shaders\\shader.frag",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-07-07T21:14:44.902Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T21:14:44.902Z"
             },
             {
               "$type": "Document",
@@ -55,9 +54,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\5. Shaders\\1. shaders_uniform\\src\\Program.cs",
               "RelativeDocumentMoniker": "src\\Program.cs",
-              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\5. Shaders\\1. shaders_uniform\\src\\Program.cs",
-              "RelativeToolTip": "src\\Program.cs",
-              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHQAAAAlAAAA",
+              "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\2.a\\5. Shaders\\1. shaders_uniform\\src\\Program.cs*",
+              "RelativeToolTip": "src\\Program.cs*",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAH4AAABYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T20:53:00.52Z",
               "EditorCaption": ""

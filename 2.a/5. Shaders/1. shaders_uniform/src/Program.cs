@@ -122,9 +122,9 @@ public class Program : GameWindow {
         //int vertexColorLocation = GL.GetUniformLocation(shaderProgram, "ourColor");
         //GL.Uniform4(vertexColorLocation, 0.0f, greenValue, 0.0f, 1.0f);
 
-        //GL.Uniform4(GL.GetUniformLocation(shaderProgram, "ourColor"), 1.0f, 0.5f, 0.2f, 1.0f);
+        GL.Uniform4(GL.GetUniformLocation(shaderProgram, "ourColor"), 1.0f, 0.5f, 0.2f, 1.0f);
         //GL.Uniform4(GL.GetUniformLocation(shaderProgram, "ourColor"), ConvertColorToRGBA(255, 127, 51, 255));
-        GL.Uniform4(GL.GetUniformLocation(shaderProgram, "ourColor"), ConvertColorToHex("FF7F33", 255));
+        //GL.Uniform4(GL.GetUniformLocation(shaderProgram, "ourColor"), ConvertColorToHex("FF7F33", 255));
 
         // renderiza o triângulo
         GL.BindVertexArray(VAO); // visto que temos apenas um VAO, não há necessidade de vinculá-lo todas as vezes, mas faremos isso para manter as coisas um pouco mais organizadas

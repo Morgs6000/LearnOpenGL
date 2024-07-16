@@ -68,10 +68,10 @@ public class Program : GameWindow {
         GL.AttachShader(shaderProgramOrange, vertexShader);
         GL.AttachShader(shaderProgramOrange, fragmentShaderOrange);
         GL.LinkProgram(shaderProgramOrange);
-        // verifique se há erros de compilação do shader
+        // verifique se há erros de vinculação
         GL.GetProgram(shaderProgramOrange, GetProgramParameterName.LinkStatus, out success);
         if(success == 0) {
-            GL.GetShaderInfoLog(shaderProgramOrange, out infoLog);
+            GL.GetProgramInfoLog(shaderProgramOrange, out infoLog);
             Console.WriteLine("ERROR::SHADER::PROGRAM_ORANGE::LINKING_FAILED\n" + infoLog);
         }
 
@@ -81,10 +81,10 @@ public class Program : GameWindow {
         GL.AttachShader(shaderProgramYellow, vertexShader);
         GL.AttachShader(shaderProgramYellow, fragmentShaderYellow);
         GL.LinkProgram(shaderProgramYellow);
-        // verifique se há erros de compilação do shader
+        // verifique se há erros de vinculação
         GL.GetProgram(shaderProgramYellow, GetProgramParameterName.LinkStatus, out success);
         if(success == 0) {
-            GL.GetShaderInfoLog(shaderProgramYellow, out infoLog);
+            GL.GetProgramInfoLog(shaderProgramYellow, out infoLog);
             Console.WriteLine("ERROR::SHADER::PROGRAM_YELLOW::LINKING_FAILED\n" + infoLog);
         }
 
