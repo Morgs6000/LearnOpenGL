@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.3. materials\\3.3.1. materials\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.3. materials\\3.3.1. materials\\shaders\\materials_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\materials_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -33,10 +37,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.3. materials\\3.3.1. materials\\shaders\\basic_lighting_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\basic_lighting_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.3. materials\\3.3.1. materials\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "materials_vs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\materials_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\materials_vs.glsl",
@@ -63,13 +63,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "materials_fs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\materials_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\materials_fs.glsl",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\materials_fs.glsl",
               "RelativeToolTip": "shaders\\materials_fs.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-06-14T18:55:07.034Z",
               "EditorCaption": ""
@@ -82,14 +82,14 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAKgAAAAAAAAAAAAAALAAAABBAAAA",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAALAAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T22:00:22.439Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "basic_lighting_vs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\basic_lighting_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\basic_lighting_vs.glsl",
@@ -101,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Camera.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\Camera.cs",
               "RelativeDocumentMoniker": "Camera.cs",
@@ -109,12 +109,11 @@
               "RelativeToolTip": "Camera.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAIwEgAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:56:29.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T14:56:29.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "basic_lighting_fs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\basic_lighting_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\basic_lighting_fs.glsl",
@@ -126,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "light_cube_fs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\light_cube_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\light_cube_fs.glsl",
@@ -134,12 +133,11 @@
               "RelativeToolTip": "shaders\\light_cube_fs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:32:53.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:32:53.905Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "light_cube_vs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\shaders\\light_cube_vs.glsl",
               "RelativeDocumentMoniker": "shaders\\light_cube_vs.glsl",
@@ -147,20 +145,20 @@
               "RelativeToolTip": "shaders\\light_cube_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:33:06.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:33:06.976Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.3. Materials\\3.3.1. materials\\Shader.cs",
               "RelativeToolTip": "Shader.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAAAD0AAAA+AAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAADYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:46:03.869Z"
+              "WhenOpened": "2024-06-14T09:46:03.869Z",
+              "EditorCaption": ""
             }
           ]
         }

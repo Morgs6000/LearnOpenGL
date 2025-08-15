@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LearnOpenGL
-build_property.ProjectDir = D:\GitHub\Meus Repositórios\LearnOpenGL\3. Lighting\3.4. Lighting maps\3.4.1 lighting_maps_diffuse_map\
+build_property.ProjectDir = D:\GitHub\Meus Repositórios\LearnOpenGL\3. Lighting\3.4. Lighting maps\3.4.1. lighting_maps_diffuse_map\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

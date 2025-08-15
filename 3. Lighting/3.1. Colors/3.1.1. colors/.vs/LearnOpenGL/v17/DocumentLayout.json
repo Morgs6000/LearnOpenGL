@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\shaders\\colors_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -23,12 +23,12 @@
       "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\colors_vs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shaders\\light_cube_fs.glsl||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|d:\\github\\meus reposit\u00F3rios\\learnopengl\\3. lighting\\3.1. colors\\3.1.1. colors\\shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3151D9EF-4E63-455C-9DCB-4FFE4558A8D1}|LearnOpenGL.csproj|solutionrelative:shader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,16 +42,15 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "light_cube_fs.glsl",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\shaders\\light_cube_fs.glsl",
               "RelativeDocumentMoniker": "shaders\\light_cube_fs.glsl",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\shaders\\light_cube_fs.glsl",
               "RelativeToolTip": "shaders\\light_cube_fs.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:32:53.905Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:32:53.905Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "shaders\\colors_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:32:40.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:32:40.676Z"
             },
             {
               "$type": "Document",
@@ -74,7 +72,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAJYAAAAAAAAAAAAAALMAAAA5AAAA",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAAAIIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-13T22:00:22.439Z",
               "EditorCaption": ""
@@ -89,8 +87,7 @@
               "RelativeToolTip": "shaders\\light_cube_vs.glsl",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:33:06.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:33:06.976Z"
             },
             {
               "$type": "Document",
@@ -100,14 +97,13 @@
               "RelativeDocumentMoniker": "shaders\\colors_fs.glsl",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\shaders\\colors_fs.glsl",
               "RelativeToolTip": "shaders\\colors_fs.glsl",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-06-14T16:32:25.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T16:32:25.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Shader.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\Shader.cs",
               "RelativeDocumentMoniker": "Shader.cs",
@@ -115,20 +111,20 @@
               "RelativeToolTip": "Shader.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAAAD0AAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T09:46:03.869Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-14T09:46:03.869Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "Camera.cs",
               "DocumentMoniker": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\Camera.cs",
               "RelativeDocumentMoniker": "Camera.cs",
               "ToolTip": "D:\\GitHub\\Meus Reposit\u00F3rios\\LearnOpenGL\\3. Lighting\\3.1. Colors\\3.1.1. colors\\Camera.cs",
               "RelativeToolTip": "Camera.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAABcAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T14:56:29.131Z"
+              "WhenOpened": "2024-06-14T14:56:29.131Z",
+              "EditorCaption": ""
             }
           ]
         }
